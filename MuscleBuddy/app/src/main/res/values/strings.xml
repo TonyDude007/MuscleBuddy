@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MuscleBuddy</string>
+
+    <string-array name="input_items">
+        <item>All</item>
+        <item>Favorite</item>
+        <item>Chest</item>
+        <item>Abdominals</item>
+        <item>Quadriceps</item>
+        <item>Full Body</item>
+        <item>Legs</item>
+        <item>Obliques</item>
+        <item>Triceps</item>
+        <item>Biceps</item>
+        <item>Shoulders</item>
+        <item>Lower Back</item>
+        <item>Back</item>
+        <item>Hamstrings</item>
+        <item>Calves</item>
+        <item>Traps</item>
+        <item>Abs</item>
+    </string-array>
+
+    <string-array name="goal_input">
+        <item>Gain Weight</item>
+        <item>Lose Weight</item>
+        <item>Gain Muscle</item>
+        <item>lose Muscle</item>
+        <item>Maintain Muscle</item>
+    </string-array>
+</resources>
