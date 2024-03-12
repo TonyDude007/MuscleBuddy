@@ -9,5 +9,4 @@ Project de gym fait a l'ecole
     <img src="readMeImg/muscleBuddy6.jpg" alt="Sixth image for muscleBuddy" width="30%" height="30%">
     <img src="readMeImg/muscleBuddy7.jpg" alt="Seventh image for muscleBuddy" width="30%" height="30%">
     <img src="readMeImg/muscleBuddy8.jpg" alt="Eighth image for muscleBuddy" width="30%" height="30%">
-    <img src="readMeImg/muscleBuddy9.jpg" alt="Ninth image for muscleBuddy" width="30%" height="30%">
 </div>
